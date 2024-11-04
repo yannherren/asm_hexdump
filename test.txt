@@ -1,0 +1,12 @@
+Hello, Hex World! 🌍
+1234567890
+Special characters: @#$%^&*()_+
+Non-printable characters follow:
+\x00\x01\x02\x03\x04\x05\x06\x07\x08\x09\x0A\x0B\x0C\x0D\x0E\x0F
+The quick brown fox jumps over the lazy dog.
+A longer sentence to ensure that the dump can handle multiple lines well.
+
+Binary data:
+\x10\x20\x30\x40\x50\x60\x70\x80\x90\xA0\xB0\xC0\xD0\xE0\xF0
+
+End of test file!
